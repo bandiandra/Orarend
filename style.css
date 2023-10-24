@@ -1,0 +1,14 @@
+th {
+    background-color: green;
+  }
+  
+  tr {
+    background-color: lightblue;
+  }
+  
+  td {
+    background-color: yellow;
+  }
+body {
+    text-align: center;
+}
